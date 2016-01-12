@@ -3,4 +3,7 @@
 
 # puts "There are " + 7.to_s + " days in the week."
 
-puts "45628 multiplied by 7839 is #{45628 * 7839}"
+# puts "45628 multiplied by 7839 is #{45628 * 7839}"
+
+
+puts (10 < 20 && 30 < 20) || !(10 == 11)
